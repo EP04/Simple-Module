@@ -1,0 +1,6 @@
+name: Simple Module1
+description: Simple Module1
+package: Custom
+type: module
+version: 1.0
+core: 8.x

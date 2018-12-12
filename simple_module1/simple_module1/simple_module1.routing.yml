@@ -1,0 +1,7 @@
+simple_module1.form:
+  path: '/simple1'
+  defaults:
+    _form: 'Drupal\simple_module1\Form\Form1'
+    _title: 'Magazine Subscription Details'
+  requirements:
+    _permission: 'access content'
